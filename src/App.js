@@ -14,11 +14,8 @@ const GoogleFonts = importGoogleFonts(createGlobalStyle, null, [
 
 const Top = styled.div`
   background-color: #565264;
-  // padding-bottom: 1rem;
-  // width: 100%;
   padding-top: 1.75rem;
   grid-column: 1 / 3;
-  // grid-row: 1 / 2;
 `
 
 const Title = styled.div`

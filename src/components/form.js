@@ -35,13 +35,11 @@ const Result = styled.div`
   grid-column: 1 / 3;
   display: grid;
   grid-template-columns: 1fr 1fr;
-  // margin-top: 2rem;
   height: 12.5rem;
   padding-top: 6.25rem;
 `
 
 const F = styled.form`
-  // flex: 1;
   background-color: #ece2d0;
   grid-column: 1 / 3;
   display: grid;
@@ -50,12 +48,10 @@ const F = styled.form`
 `
 
 const Px = styled.div`
-  // width: 50%;
   text-align: center;
 `
 
 const Rem = styled.div`
-  // width: 50%;
   text-align: center;
 `
 
