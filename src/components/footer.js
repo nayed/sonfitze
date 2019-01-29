@@ -8,11 +8,13 @@ const Footer = styled.footer`
   grid-column: 1 / 3;
   text-align: center;
   color: #565264;
+  font-family: 'Playfair Display';
 `
 
 const Link = styled.a`
   color: inherit;
   text-decoration: inherit;
+  font-family: inherit;
 `
 
 const Img = styled.img`
