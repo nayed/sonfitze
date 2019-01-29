@@ -1,12 +1,12 @@
 {
-  "main.js": "/sonfitze/static/js/main.0aeb9d6e.chunk.js",
-  "main.js.map": "/sonfitze/static/js/main.0aeb9d6e.chunk.js.map",
+  "main.js": "/sonfitze/static/js/main.151e2744.chunk.js",
+  "main.js.map": "/sonfitze/static/js/main.151e2744.chunk.js.map",
   "static/js/1.c5134f49.chunk.js": "/sonfitze/static/js/1.c5134f49.chunk.js",
   "static/js/1.c5134f49.chunk.js.map": "/sonfitze/static/js/1.c5134f49.chunk.js.map",
   "runtime~main.js": "/sonfitze/static/js/runtime~main.5e69441e.js",
   "runtime~main.js.map": "/sonfitze/static/js/runtime~main.5e69441e.js.map",
   "static/media/github-logo.svg": "/sonfitze/static/media/github-logo.76d344f0.svg",
   "index.html": "/sonfitze/index.html",
-  "precache-manifest.ec8e3de70a30d98bc82f61022eea91be.js": "/sonfitze/precache-manifest.ec8e3de70a30d98bc82f61022eea91be.js",
+  "precache-manifest.9a6ef332b54d33e1d37ab7cbe28550f7.js": "/sonfitze/precache-manifest.9a6ef332b54d33e1d37ab7cbe28550f7.js",
   "service-worker.js": "/sonfitze/service-worker.js"
 }

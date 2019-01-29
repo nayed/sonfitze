@@ -8,15 +8,15 @@ self.__precacheManifest = [
     "url": "/sonfitze/static/js/runtime~main.5e69441e.js"
   },
   {
-    "revision": "0aeb9d6e92920e401566",
-    "url": "/sonfitze/static/js/main.0aeb9d6e.chunk.js"
+    "revision": "151e274466556b6a569c",
+    "url": "/sonfitze/static/js/main.151e2744.chunk.js"
   },
   {
     "revision": "c5134f49941656210e55",
     "url": "/sonfitze/static/js/1.c5134f49.chunk.js"
   },
   {
-    "revision": "41d0ed59eebae8e4e5592029809dec1e",
+    "revision": "b2fd2e5d1a8a16ebead3c2b828cf3553",
     "url": "/sonfitze/index.html"
   }
 ];
